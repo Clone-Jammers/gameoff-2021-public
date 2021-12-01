@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 779a75060a2836343b139e0dc90386bf, type: 3}
+  m_Name: ManjaroTheme
+  m_EditorClassIdentifier: 
+  _error: {r: 0.7490196, g: 0.38039216, b: 0.41568628, a: 1}
+  _danger: {r: 0.8156863, g: 0.5294118, b: 0.4392157, a: 1}
+  _warning: {r: 0.92156863, g: 0.79607844, b: 0.54509807, a: 1}
+  _success: {r: 0.6392157, g: 0.74509805, b: 0.54901963, a: 1}
+  _uncommon: {r: 0.7058824, g: 0.5568628, b: 0.6784314, a: 1}
+  _background: {r: 0.9254902, g: 0.9254902, b: 0.9254902, a: 1}
+  _panel: {r: 0.17254902, g: 0.17254902, b: 0.17254902, a: 1}
+  _active: {r: 0.2627451, g: 0.29803923, b: 0.36862746, a: 1}
+  _selected: {r: 0.29803923, g: 0.3372549, b: 0.41568628, a: 1}
+  _disabled: {r: 0.84705883, g: 0.87058824, b: 0.9137255, a: 1}
+  _secondaryText: {r: 0.1882353, g: 0.1882353, b: 0.19607843, a: 1}
+  _primaryText: {r: 0.06666667, g: 0.7019608, b: 0.5176471, a: 1}
+  _highlight: {r: 0.56078434, g: 0.7372549, b: 0.73333335, a: 1}
+  _primaryAccent: {r: 0.53333336, g: 0.7529412, b: 0.8156863, a: 1}
+  _secondaryAccent: {r: 0.5058824, g: 0.6313726, b: 0.75686276, a: 1}
+  _tertiaryAccent: {r: 0.36862746, g: 0.5058824, b: 0.6745098, a: 1}
+  _titleFont: {fileID: 11400000, guid: 447003388b8c22f47aacbef1eda020b3, type: 2}
+  _textFont: {fileID: 11400000, guid: 447003388b8c22f47aacbef1eda020b3, type: 2}
+  _subTextFont: {fileID: 11400000, guid: 447003388b8c22f47aacbef1eda020b3, type: 2}
+  _titleSize: 24
+  _textSize: 6
+  _subTextSize: 4
