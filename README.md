@@ -1,6 +1,7 @@
 # BUGGY GAME
 
-Gameoff 2021 repository
+Gameoff 2021 repository.   
+**IMPORTANT!** Paid third party assets were used in the project. Those assets are not included in this repository. Therefore, the project in this repository is highly incomplete.
 
 ## How to play
 
